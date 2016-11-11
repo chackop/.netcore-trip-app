@@ -1,0 +1,11 @@
+{
+    "MailSettings": {
+        "ToAddress": "chax@gmail.com"
+    },
+    "ConnectionStrings": {
+        "WorldContextConnection": "Server=(localdb)\\v11.0;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+    },
+    "Keys": {
+        "BingKey": "DONTHARDCODEKEYSINCONFIGURATION"
+    }
+}
